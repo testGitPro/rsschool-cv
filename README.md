@@ -1,1 +1,1 @@
-https://testGitPro/rsschool-cv/cv
+https://testGitPro.io/rsschool-cv/cv
