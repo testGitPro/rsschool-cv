@@ -26,6 +26,7 @@ Development Tools
 * Toad for Oracle
 * Siebel 7.8-8.1
 * Siebel Tools
+* Oracle
 
 
 Experience:
